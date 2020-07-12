@@ -38,6 +38,8 @@ body {
     height: 100%;
     width: 100%;
     text-align: center;
+    overflow: scroll;
+
 }
 
 .carousel-prev-next {
@@ -361,6 +363,7 @@ span {
     margin-left: 8%;
 }
 
+
 .our-projects-header h2 {
     color: #b50000e6;
     font-weight: 700;
@@ -379,6 +382,7 @@ span {
 .sidebar-content {
     height: 95%;
     text-align: left;
+    overflow: scroll;
 }
 
 .nav-pills .nav-link.active,
@@ -813,7 +817,7 @@ a:hover {
 
 .card6 {
     border-radius: 20px;
-    height: 90vh;
+    height: 100%;
 }
 
 .contact-us-card .card-header h2 {
