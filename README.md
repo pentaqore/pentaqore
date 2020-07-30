@@ -1,1 +1,1 @@
-# pentaqore.github.io
+# pentaqore
